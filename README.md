@@ -1,0 +1,1 @@
+Spring MVC hibernate base project, adding employees and retrieving them. (Controller, DAO, Services, Model)
